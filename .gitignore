@@ -1,0 +1,5 @@
+.idea/
+shtat_project/shtat_project/__pycache__/
+shtat_project/shtatapp/__pycache__/
+shtat_project/shtatapp/migrations/__pycache__/
+shtat_project/shtatapp/static/images/dsst.png
